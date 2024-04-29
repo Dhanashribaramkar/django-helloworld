@@ -24,7 +24,7 @@ jobs:
 
       - name: Create and start virtual environment
         run: |
-          az login --identity --username 48c4a8c2-d463-4678-8f28-d41647b93faa
+          az login --identity --username oss_22thaug_dh
 
           az account set --subscription 016800ee-fc90-4dd9-a1d3-b2b5ba963a75         
 
